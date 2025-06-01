@@ -9,4 +9,7 @@ const MONGO_URI = process.env.MONGO_URI;
 connectDB();
 
 app.listen(PORT, () => console.log(`Server running on ${PORT}`));
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3a33690e3f54dc65318c4b0a70ee47645dda025c
